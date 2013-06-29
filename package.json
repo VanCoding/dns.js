@@ -16,5 +16,8 @@
     "dns-server"
   ],
   "author": "Patrik Stutz",
-  "license": "GPL"
+  "license": "GPL",
+  "dependencies": {
+    "ndns":"git://github.com/atrniv/ndns.git#bc7d1c4ff428a5ba1080bd2a5b506530498da399"
+  }
 }
